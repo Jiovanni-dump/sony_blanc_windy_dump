@@ -1,0 +1,14 @@
+# blanc_windy-user 8.0.0 OPR1.170623.026 1 dev-keys
+- manufacturer: sony
+- platform: msm8952
+- codename: blanc_windy
+- flavor: blanc_windy-user
+- release: 8.0.0
+- id: 44.3.A.0.87
+- incremental: 1
+- tags: dev-keys
+- fingerprint: Sony/blanc_windy/blanc_windy:8.0.0/OPR1.170623.026/1:user/dev-keys
+- is_ab: false
+- brand: Sony
+- branch: blanc_windy-user-8.0.0-OPR1.170623.026-1-dev-keys
+- repo: sony_blanc_windy_dump

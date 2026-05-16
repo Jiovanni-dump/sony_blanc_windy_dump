@@ -1,0 +1,3 @@
+system/[SYS]/Journal.zst
+system/app/eyeSightService-SonyPA-system/eyeSightService-SonyPA-system.apk.zst
+system/app/Chrome/Chrome.apk.zst

@@ -1,0 +1,15 @@
+ro.build.description=G1109-user 8.0.0 44.3.A.0.87 3185665877 release-keys
+
+ro.product.brand=Sony
+ro.product.name=G1109
+ro.product.device=G1109
+ro.build.version.incremental=3185665877
+ro.build.tags=release-keys
+ro.build.fingerprint=Sony/G1109/G1109:8.0.0/44.3.A.0.87/3185665877:user/release-keys
+
+######################## Customized property values #########################
+ro.semc.version.cust=1309-0372
+ro.semc.version.cust_revision=R5C
+ro.somc.customerid=8787
+#############################################################################
+
